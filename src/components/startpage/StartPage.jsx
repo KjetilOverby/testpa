@@ -10,7 +10,7 @@ const StartPage = () => {
           <h1 className="akan-header">Hva er Akan?</h1>
           <div className="text-box-content">
             <p>
-              testLorem ipsum dolor sit amet consectetur adipisicing elit. Ullam,
+              test testing outLorem ipsum dolor sit amet consectetur adipisicing elit. Ullam,
               cumque dolor mollitia commodi ducimus quam in sit veritatis
               quibusdam quisquam quo reiciendis. Delectus veritatis minima quas
               fugiat magni sequi sunt. In voluptate maxime laboriosam
